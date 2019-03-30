@@ -1,2 +1,2 @@
 // write your code below!
-var happyholidays
+var happyHolidays = "Happy holidays"
