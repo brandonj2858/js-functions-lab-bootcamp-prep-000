@@ -1,4 +1,2 @@
 // write your code below!
-var happyHolidays() = Function happyHolidays() {
-  return "Happy holidays!"
-}
+var happyHolidays() = "Happy holidays!"
