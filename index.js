@@ -1,4 +1,5 @@
 // write your code below!
-var "Happy holidays!" = happyHolidays()
+var happyHolidays() = "Happy holidays!"
+
 Function happyHolidays() {
   return "Happy holidays!"}
